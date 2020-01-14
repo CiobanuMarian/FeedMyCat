@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FeedMyCat</string>
+    <string name="btn_feed">Feed the Cat</string>
+</resources>
